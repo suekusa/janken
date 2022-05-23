@@ -1,4 +1,4 @@
-# janken ver.6.6 2022/4/12
+# janken ver.6.6
 
 import tkinter as tk
 from tkinter import ttk
